@@ -39,3 +39,4 @@ buildNumber.properties
 ## OS X
 ##############################
 .DS_Store
+/.idea/
